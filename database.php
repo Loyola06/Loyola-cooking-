@@ -1,6 +1,6 @@
 <?php
 
-$db_server = "140.82.121.3";
+$db_server = "localhost";
 $db_user = "root";
 $db_pass = "";
 $db_name = "cooking";
