@@ -1,0 +1,285 @@
+/* media screens  */
+@media only screen and (min-width: 270px) and (max-width: 350px) { 
+
+
+    /* .image-card {
+        border-radius: 100%;
+        width: 50px;
+    border: solid 2px pink;
+    
+    }
+
+    #first-section {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+       height: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+        filter: brightness;
+ 
+    
+    } */
+
+    iframe {
+        width: 250px;
+    }
+
+    .for-fold {
+
+        size: 10;
+    }
+    
+}
+
+@media only screen and (min-width: 800px) and (max-width: 900px) { 
+
+.card {
+    width: 200px;
+}
+
+iframe {
+    width: 250px;
+}
+
+}
+
+
+
+
+
+
+
+/* thsee are just for every change */
+@media only screen and (min-width: 990px) and (max-width: 1400px) {
+    .hide-on-laptop {
+        display: none;
+    }    
+    
+    .hol2 {
+        display: none;
+    }
+    .hol1 {
+        display: none;
+    }
+    
+    .btn {
+        display: none;
+
+    }
+    
+    .icon {
+        display: none;
+    }
+
+    
+    .image-card {
+        border-radius: 100%;
+        width: 300px;
+    border: solid 2px pink;
+    
+    }
+
+    iframe {
+        width: 500px;
+        
+        height: 315px;
+
+
+    }
+
+    .contact-image-size {
+        width: 600px;
+    }
+    }
+
+
+@media only screen and (min-width: 997px) and (max-width: 1400px) {
+    .hide-on-laptop {
+        display: none;
+    }    
+    
+    .hol2 {
+        display: none;
+    }
+    .hol1 {
+        display: none;
+    }
+    
+    .btn {
+        display: none;
+    }
+    
+    .icon {
+        display: none;
+    }
+
+        
+    .image-card {
+        border-radius: 100%;
+        width: 300px;
+    border: solid 2px pink;
+    
+    }
+    }
+    
+    
+
+    
+    @media screen and (max-width: 960px) { 
+     
+        .navbar-toggler {
+     
+        display: none;
+        } 
+    
+        #first-section {
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+           height: 100%;
+        text-align: center;
+        padding-bottom: 30px;
+            filter: brightness;
+     
+        
+        }
+        
+    
+    }
+
+
+    /* These are styles that affect every one of the code */
+
+    /* nav head */
+    .header-nav {
+        color: #99BC85;
+        padding-left: 30px;
+        font-family: 'Agbalumo', system-ui;
+    }
+
+    .item-nav {
+        color: #C6A969;
+        padding-left: 30px;
+        font-family: 'Nova Square', sans-serif;
+    }
+
+
+.item-nav:hover {
+    color: #99BC85;
+}
+
+/* sections */
+
+#first-section {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   height: 100%;
+text-align: center;
+padding-bottom: 50px;
+    filter: brightness;
+    background-position: center center;
+
+}
+
+#first-section h1 {
+    padding-top: 60px;
+    font-size: 3rem;
+    font-family: 'Nova Square', sans-serif;
+    font-style: bold;
+
+}
+/* card first-section */
+
+.card-col{
+    padding-top: 40px;
+}
+
+.image-card {
+    border-radius: 100%;
+    width: 200px;
+border: solid 2px yellow;
+
+}
+
+#first-section h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #0C2D57;
+}
+
+/* second-section */
+#second-sectiom {
+    padding-top: 30px;
+    background-color: #fff;
+    padding-bottom: 40px;
+}
+
+ 
+
+.card-text {
+    color: #fff;
+}
+
+/* third section */
+
+#third-section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   height: 100%;
+text-align: center;
+padding-bottom: 50px;
+    filter: brightness;
+
+}
+
+.txt {
+    padding-top: 10px;
+    font-family: 'Nova Square', sans-serif;
+
+
+font-style: bolder;
+color: #fff;
+}
+
+/* this is the fourth section */
+#fourth-section {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col {
+    padding-left: 20px;
+}
+
+.second-col {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+    filter: brightness;
+}
+
+.txt1-1{
+    font-family: 'Nova Square', sans-serif;
+}
+
+#lasr-section {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.icon-1 {
+    color: purple;
+}
+
+.fa-brands {
+    color: green;
+}
